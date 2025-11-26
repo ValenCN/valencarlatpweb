@@ -1,0 +1,62 @@
+body {
+  background-color: #0F2C36;
+  color: #E5E5E5;
+}
+
+/* === NAVBAR === */
+.navbar {
+  background-color: #0C222B !important;  /* más oscuro */
+}
+
+.navbar .nav-link {
+  color: #CFC7B0 !important;
+}
+
+.navbar .nav-link:hover {
+  color: #F3E0B5 !important; /* iluminación dorada */
+}
+
+/* === CARDS === */
+.card {
+  background-color: #12333D;
+  border: 2px solid #1E4854;
+  color: #F0EDE5;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #00000066;
+}
+
+.card-title {
+  color: #F2D7A0;
+}
+
+.card-text {
+  line-height: 1.5;
+}
+
+/* === BOTONES === */
+.btn-primary {
+  background-color: #225E6E !important;
+  border-color: #1E4F5C !important;
+  letter-spacing: 1px;
+}
+
+.btn-primary:hover {
+  background-color: #2C788C !important;
+  border-color: #246577 !important;
+}
+
+/* === MODAL === */
+.modal-content {
+  background-color: #11272F;
+  border: 2px solid #1F3D46;
+  color: #E5E5E5;
+}
+
+.modal-header, .modal-footer {
+  border-color: #1F3D46;
+}
+
+.btn-secondary {
+  background-color: #344C53;
+  border-color: #2C3F44;
+}
